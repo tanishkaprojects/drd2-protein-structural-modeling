@@ -125,13 +125,14 @@ It is used to identify dopamine–DRD2 interactions and determine transmembrane 
 
 
 * **Dopamine Binding pocket**
-  From the PDB 8U02 Structure analysis, I observed that Dopamine is positioned within the TM regions. The ligand- binding region is formed by residues from **TM3, TM5, TM6 and TM7**. Therefore, binding-pocket involves multiple TM helices rather than one.
-  These multiple residues binds with the Dopamine and stabilizes the structure.
+  
+  From the PDB 8U02 Structure analysis, I observed that Dopamine is positioned within the TM regions. The ligand- binding region is formed by residues from **TM3, TM5, TM6 and TM7**. Therefore, binding-pocket involves multiple TM helices rather than a single region of receptor.
+  These  multiple residues binds with the Dopamine and stabilizes the ligand.
   
 
   * **Residues interacting with Dopamine**
     
-| Residue | Generic name | GPCRdb position | TM region | Interaction types |
+| Residue | Amino acid | GPCRdb position | TM region | Interaction types |
 |---|---|---|---|---|  
 | D114 | Aspartate | 3.32 | TM3 | Charge-assisted hydrogen bond |
 | V115 | Valine |  3.33 | TM3  | Hydrophobic, van der Waals |
@@ -145,7 +146,13 @@ It is used to identify dopamine–DRD2 interactions and determine transmembrane 
 | Y416 | Tyrosine | 7.43 | TM7 | Hydrogen bond |
 
 
-
+* **Dopamine-Residue Mapping**
+  
+| Structure | Residues | Contributions | 
+|---|---|---|
+| Protonated Amine (positively charged) | D114 | charge-assisted hydrogen bond attracts dopamine in receptor-binding pocket | 
+| Polar region | S193, S197, H393, Y416 | H-bonds helps in recognition of dopamine and stabilization |
+| Aromatic ring (Hydrophobic) | W386, F389, F390, V115, C118 |Hydrophobic, van der Waals and aromatic interactions ensure molecules locks tightly and held together and therefore, provide stability. |
 
 
 
