@@ -173,13 +173,22 @@ The intracellular surface of DRD2 is also associated with heterotrimeric Go- pro
 ## Project access and Repositories
 
 *GitHub Repository:*
+
 [DRD2 Protein Structural Modeling](https://github.com/tanishkaprojects/drd2-protein-structural-modeling/blob/main/README.md)
+
  **UniProt:**
+ 
  [P14416 – Dopamine receptor D2](https://www.uniprot.org/uniprotkb/P14416/entry)
+ 
  **PDB:**
+ 
  [8U02 – Human DRD2 bound to dopamine](https://www.rcsb.org/structure/8U02)
+ 
  **GPCRdb:** 
- [PDB 8U02 Interaction Data](https://gpcrdb.org/protein/drd2_human/)
+ 
+ [PDB 8U02 Interaction Data](https://gpcrdb.org/interaction/8U02)
+ 
   **PDBe:**
+  
   [PDB 8U02](https://www.ebi.ac.uk/pdbe/entry/pdb/8U02)
 
