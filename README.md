@@ -93,11 +93,31 @@ The amino acid residues in DRD2 will create Dopamine-binding pocket that would h
 
 
 
+**PDBe** 
+
+It used to visualize the 3D structure of DRD2 and examine individual receptor residues around the ligand.
+
+**GPCRdb**
+
+It is used to identify dopamine–DRD2 interactions and determine transmembrane locations. It is also used to classify the interaction types. 
 
 
+---
 
 
-**Workflow Analysis**
+### Workflow Analysis 
+
+
+   01. Used Uniprot to select the DRD2 sequence of human and chose its canonical isoform (long version).
+   2.  Used **8U02 structure** on PDB as it was existing as an experimental 3D structure.
+   3.  Analysed that experimental 3D structure using PDBe/mol*
+   4.  First, Located the L-Dopamine within the transmembrane regions.
+   5.  Secondly, checked the different amino acid residues surrounding the dopamine and their interaction with the dopamine molecule.
+   6.  Then used  *GPCRdb* to verify the transmembrane helices and the interaction types i.e. bonds.
+   7.  Compared the chemical properties of the different residues and how they interact with dopamine (dopamine-binding pocket)
+   8.  These ligand-binding interactions were then related to the structure and function of DRD2.
+
+---
 
 
 ### Results
