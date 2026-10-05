@@ -33,16 +33,16 @@ I did structural analysis using PDBe/Mol* for visualisation and  GPCRdb for unde
 
 ## Structure and Ligand
 
-**Structure Selected: PDB 8U02**
+* **Structure Selected: PDB 8U02**
 
 For this project, I selected **PDB 8U02** which is a cryo-EM structure of human DRD2 bound to dopamine. 
 It has total length of 443 amino acid (canonical form), further shows no mutation in the receptor sequence. while, has model resolution of 3.28 Å. These features make it more suitable to be studied rather than short sequence with alternative splicing. 
 
-**Receptor : DRD2**
+* **Receptor : DRD2**
 
 DRD2 (dopamine D2 receptor) is a **Class A G protein-coupled receptor (GPCR)** with seven transmembrane alpha-helices. The transmembrane regions consists of amino acid residues which interacts with dopamine while the intracellular regions interacts with G- proteins and are involved in receptor signaling.
 
-**Ligand : Dopamine/ L- Dopamine**
+* **Ligand : Dopamine/ L- Dopamine**
 
 Dopamine as a ligand, binds to DRD2 and forms the binding pocket. It structurally consists of a positively charged amine group, two hydroxyl groups (OH) and an aromatic ring.
 
@@ -68,7 +68,8 @@ The amino acid residues in DRD2 will create Dopamine-binding pocket that would h
 
 ### Methodology and Data source:
 
-**DRD2 Data:**  *Uniprot*
+* **DRD2 Data:**  *Uniprot*
+  
 | Feature | Data |
 |---|---|
 | Protein name | Dopamine receptor D2 |
@@ -81,7 +82,7 @@ The amino acid residues in DRD2 will create Dopamine-binding pocket that would h
 | Function | *Uniprot* mentions it as 'Brain reward chemical' but it includes many functions such as Movement, learning and reward-signaling. | 
 
 
-**Structure 8U02:** *PDB* 
+* **Structure 8U02:** *PDB* 
 
 | Feature | Data |
 |---|---|
@@ -93,11 +94,11 @@ The amino acid residues in DRD2 will create Dopamine-binding pocket that would h
 
 
 
-**PDBe** 
+* **PDBe** 
 
 It used to visualize the 3D structure of DRD2 and examine individual receptor residues around the ligand.
 
-**GPCRdb**
+* **GPCRdb**
 
 It is used to identify dopamine–DRD2 interactions and determine transmembrane locations. It is also used to classify the interaction types. 
 
@@ -123,17 +124,32 @@ It is used to identify dopamine–DRD2 interactions and determine transmembrane 
 ### Results
 
 
+* **Dopamine Binding pocket**
+  From the PDB 8U02 Structure analysis, I observed that Dopamine is positioned within the TM regions. The ligand- binding region is formed by residues from **TM3, TM5, TM6 and TM7**. Therefore, binding-pocket involves multiple TM helices rather than one.
+  These multiple residues binds with the Dopamine and stabilizes the structure.
+  
 
-### Dopamine-Binding Pocket
+  * **Residues interacting with Dopamine**
+    
+| Residue | Generic name | GPCRdb position | TM region | Interaction types |
+|---|---|---|---|---|  
+| D114 | Aspartate | 3.32 | TM3 | Charge-assisted hydrogen bond |
+| V115 | Valine |  3.33 | TM3  | Hydrophobic, van der Waals |
+| C118 | Cysteine | 3.36 | TM3 | Van der Waals | 
+| S193 | Serine | 5.42 | TM5 | Hydrogen bond |
+| S197 | Serine | 5.46 | TM5 | Hydrogen bond |
+| W386 | Tryptophan | 6.48 | TM6 | Hydrophobic, van der Waals |
+| F389 | Phenylalanine | 6.51 | TM6 | Van der Waals, aromatic edge-to-face |
+| F390 | Phenylalanine | 6.52 | TM6 | Hydrophobic,  van der Waals |
+| H393 | Histidine | 6.55 | TM6 | Hydrogen bond , van der Waals |
+| Y416 | Tyrosine | 7.43 | TM7 | Hydrogen bond |
 
 
 
-### Interacting Residues
 
 
 
 
-### Interaction Types
 
 
 ## Interpretation
