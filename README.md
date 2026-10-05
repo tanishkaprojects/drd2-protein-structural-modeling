@@ -155,19 +155,26 @@ It is used to identify dopamine–DRD2 interactions and determine transmembrane 
 | Aromatic ring (Hydrophobic) | W386, F389, F390, V115, C118 |Hydrophobic, van der Waals and aromatic interactions ensure molecules locks tightly and held together and therefore, provide stability. |
 
 
-
-
-
+--- 
 
 ## Interpretation
 
+The result shows that Dopamine binding in DRD2 is not dependent on single amino acid residue. The different residues from TM helices including TM3, TM5, TM6 and TM7 work together and form a **3D ligand-binding pocket**. 
+
+The D114 residue in TM3 shows **charge-assisted interactions** with the positively charged amine group of dopamine and helps to attracting the dopamine molecule into the binding pocket. Whereas, other polar residues including S193, S197, H393 and Y416, contribute **hydrogen-bonding interactions** that help with recognition of dopamine and its positioning.
+
+Residues including V115, C118, W386, F389 and F390 contribute hydrophobic, van der Waals and aromatic interactions. These interactions ensure that dopamine molecule locks tightly and is held together, contributing to the overall stability of the ligand within the pocket. The different chemical properties of the side chains allows the receptor to bind with dopamine and stabilize its ligand.
+The intracellular surface of DRD2 is also associated with heterotrimeric Go- protein and it couples with the G-protein such as G-alpha-o, G-beta-1 and G-gamma-2. This interactions represents receptor signaling. To conclude, the 3D structure of DRD2 and the chemical properties of its residues allow it to interact with and stabilize dopamine. Therefore, contributing to its function as a dopamine receptor.
 
 
-## Final Discussion
-
-
-
-
+---
 
 
 ## Project access and Repositories
+
+**GitHub Repository:** [DRD2 Protein Structural Modeling] 
+ **UniProt:** [P14416 – Dopamine receptor D2](
+ **PDB:** [8U02 – Human DRD2 bound to dopamine]
+ **GPCRdb:** [PDB 8U02 Interaction Data]
+  **PDBe:** [PDB 8U02]
+
