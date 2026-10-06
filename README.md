@@ -124,6 +124,11 @@ It is used to identify dopamine–DRD2 interactions and determine transmembrane 
 ### Results
 
 
+![Overall structure of PDB 8U02](images/8U02_overall_structure.png)
+
+*Figure 1. Overall structure of human DRD2 in complex with heterotrimeric Go protein in PDB 8U02.*
+
+
 * **Dopamine Binding pocket**
   
   From the PDB 8U02 Structure analysis, I observed that Dopamine is positioned within the TM regions. The ligand- binding region is formed by residues from **TM3, TM5, TM6 and TM7**. Therefore, binding-pocket involves multiple TM helices rather than a single region of receptor.
