@@ -207,7 +207,8 @@ The intracellular surface of DRD2 is also associated with heterotrimeric Go- pro
  
  **GPCRdb:** 
  
- [PDB 8U02 Interaction Data](https://gpcrdb.org/interaction/8U02)
+ [PDB 8U02 Interaction Data](https://gpcrdb.org/protein/drd2_human/)
+
  
   **PDBe:**
   
