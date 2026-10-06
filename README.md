@@ -102,6 +102,9 @@ It used to visualize the 3D structure of DRD2 and examine individual receptor re
 
 It is used to identify dopamine–DRD2 interactions and determine transmembrane locations. It is also used to classify the interaction types. 
 
+![DRD2 snake diagram](images/snake_drd2_human.png)
+
+*Figure: GPCRdb snake diagram demonstrating the transmembrane organisation and its residues involved in dopamine interaction*
 
 ---
 
