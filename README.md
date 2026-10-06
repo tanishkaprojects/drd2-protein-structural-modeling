@@ -128,6 +128,19 @@ It is used to identify dopamine–DRD2 interactions and determine transmembrane 
 
 *Figure 1. Overall structure of human DRD2 in complex with heterotrimeric Go protein in PDB 8U02.*
 
+---
+
+![Dopamine binding pocket](images/DRD2_dopamine_binding_pocket.png)
+
+*Figure 2. Close-up view of dopamine within the DRD2 binding pocket. The highlighted dopamine molecule is surrounded by receptor residues from the transmembrane region, with dashed lines indicating contacts between the ligand and surrounding residues.*
+
+---
+
+
+![D114–dopamine interaction](images/D114_dopamine_interaction.png) 
+*Figure 3. Close-up view of D114 (ASP 114) in TM3 showing its Charge-assisted interaction with dopamine within the DRD2 binding pocket.*
+
+---
 
 * **Dopamine Binding pocket**
   
