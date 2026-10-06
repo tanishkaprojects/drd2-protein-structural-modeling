@@ -7,7 +7,7 @@ Analyze an experimentally determined DRD2 structure and investigate how its 3d s
 ## Overview
 Dopamine is a neurotransmitter that directs signaling in the central nervous system through dopamine receptors such as DRD2. 
 DRD2 is a Class A G protein-coupled receptor (*GPCR*) involved in signaling in the central nervous system.
-I analyzed how the DRD2 receptor binds to its ligand (Dopamine) by stronger and weaker interactions. DRD2 structurally contains 7 transmembrane alpha - helices along with G-proteins as signaling partners. 
+I analyzed how the DRD2 receptor binds to its ligand (Dopamine) through multiple non-covalent interactions. DRD2 structurally contains 7 transmembrane alpha - helices along with G-proteins as signaling partners. 
 
 The project investigates the structure of human DRD2 using dopamine bound-structure **PDB 8U02**. It focuses on identifying the receptor residues that interact with dopamine, their respective transmembrane and determine how their chemical properties contribute to the ligand-binding pocket. 
 I did structural analysis using PDBe/Mol* for visualisation and  GPCRdb for understanding dopamine-DRD2 multiple interactions. These interactions of the residues helped to understand how DRD2 binding-pocket stabilizes the dopamine and contributes to function of the receptor.
@@ -36,7 +36,7 @@ I did structural analysis using PDBe/Mol* for visualisation and  GPCRdb for unde
 * **Structure Selected: PDB 8U02**
 
 For this project, I selected **PDB 8U02** which is a cryo-EM structure of human DRD2 bound to dopamine. 
-It has total length of 443 amino acid (canonical form), further shows no mutation in the receptor sequence. while, has model resolution of 3.28 Å. These features make it more suitable to be studied rather than short sequence with alternative splicing. 
+It has total length of 443 amino acid (canonical form), further no mutation is present in the DRD2 receptor sequence. while, has model resolution of 3.28 Å. These features make it more suitable to be studied rather than short sequence with alternative splicing. 
 
 * **Receptor : DRD2**
 
@@ -78,7 +78,7 @@ The amino acid residues in DRD2 will create Dopamine-binding pocket that would h
 | Amino-acid sequence | 443 |
 | Isoform selected | P14416-1 |
 | Subcellular location  | Postsynaptic cell-membrane, Cell-membrane and Golgi apparatus membrane |
-| Transmembrane regions | TM3, TM5, TM6, TM7 |
+| Dopamine interacting Transmembrane regions | TM3, TM5, TM6, TM7 |
 | Function | *Uniprot* mentions it as 'Brain reward chemical' but it includes many functions such as Movement, learning and reward-signaling. | 
 
 
