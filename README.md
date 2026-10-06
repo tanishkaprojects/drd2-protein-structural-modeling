@@ -138,7 +138,7 @@ It is used to identify dopamine–DRD2 interactions and determine transmembrane 
 
 
 ![D114–dopamine interaction](images/D114_dopamine_interaction.png) 
-*Figure 3. Close-up view of D114 (ASP 114) in TM3 showing its Charge-assisted interaction with dopamine within the DRD2 binding pocket.*
+*Figure 3. Close-up view of D114 (ASP 114) in TM3 showing its charge-assisted interaction with dopamine within the DRD2 binding pocket.*
 
 ---
 
